@@ -1,15 +1,15 @@
-# School-Landpage
+# Njeyeza senior secondary school landpage
 
 #'link for images--https://www.base64-image.de/'
 -Page to land onto when enquiring something about a school.
 
-## [xxxx High School] - A Website for Our Community
+## Njeyeza senior secondary School(NJSSS) - A Website for Our Community
 
-**Welcome!** This website is designed to be a comprehensive resource for everyone connected to [xxxx]. Whether you're a student, parent, or community member, we aim to provide you with the information you need in one convenient location.
+**Welcome!** This website is designed to be a comprehensive resource for everyone connected to NJSSS. Whether you're a student, parent, or community member, we aim to provide you with the information you need in one convenient location.
 
 **Explore Our School:**
 
-* **Learn about our academic programs:** Discover the exciting educational opportunities we offer at [xxxx].
+* **Learn about our academic programs:** Discover the exciting educational opportunities we offer at NJSSS.
 * **Meet our dedicated faculty:** Get to know our experienced and passionate teachers who are committed to student success.
 * **Explore our facilities:** Take a virtual tour of our classrooms, libraries, and other resources available to our students.
 
@@ -17,7 +17,7 @@
 
 * **Announcements and Events:** Keep up-to-date with important announcements, upcoming school events, and deadlines.
 * **Resources:** Find valuable resources specifically tailored for students, parents, and the broader community.
-* **News and Updates:** Stay connected with the latest happenings at [xxxx] through our news section.
+* **News and Updates:** Stay connected with the latest happenings at NJSSS through our news section.
 
 **Coming Soon:**
 
@@ -31,6 +31,5 @@ We're constantly working to improve your experience! Look forward to features li
 
 **Contact Us:**
 
-Have questions or feedback?  We'd love to hear from you! Please reach out to the school administration at [xxxx] or [xxxx].
+Have questions or feedback?  We'd love to hear from you! Please reach out to the school administration at +27 130 987 543 or Njeyezasss@outlook.com.
 
-This rephrased version uses more engaging language and highlights different sections of the website. It also emphasizes upcoming features to keep visitors interested. Remember to replace the bracketed information with your specifics!
