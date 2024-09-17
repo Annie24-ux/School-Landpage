@@ -23,3 +23,24 @@ img{
     margin-right: auto;
     width: 50%;
 }
+
+.navigation{
+    background-color: black;
+    color: white;
+    overflow: hidden;
+}
+
+.navigation a{
+    float:left;
+    /* color: pink; */
+    text-align: center;
+    text-decoration: none;
+    display: flexbox;
+    justify-content: space-between;
+    font-size: 20px;
+}
+
+.navigation a:hover{
+    background-color: blueviolet;
+    color:beige;
+}
